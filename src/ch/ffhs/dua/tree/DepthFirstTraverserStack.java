@@ -34,10 +34,7 @@ public abstract class DepthFirstTraverserStack<N> {
                     nodeStack.push(child);
                 }
             }
-
         }
-
-
     }
 
     /**
